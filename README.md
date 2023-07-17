@@ -174,9 +174,3 @@ To fix a bug or enhance an existing module, follow these steps:
 - Push to the branch (`git push origin improve-feature`)
 - Create a Pull Request 
   
- 
-### Bug / Feature Request
-
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/iamrohitsuthar/quizller/issues/new).
-
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/iamrohitsuthar/quizller/issues/new).
